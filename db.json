@@ -528,5 +528,130 @@
     "name": "luminus gold silver dragon",
     "id":220,
     "quantity": 0
+  },{
+    "image":
+      "https://imgaz.staticbg.com/thumb/gallery/oaupload/banggood/images/18/4D/4293b559-a0f8-4318-b7e2-50215b8aebe8.jpg.webp",
+    "price": 14806.71,
+   "type":"home-appliance",
+    "name": "brizhome air BH",
+    "id": 301,
+    "quantity": 0
+  },
+  {
+    "image":
+      "https://imgaz1.staticbg.com/thumb/gallery/oaupload/banggood/images/DE/9B/0e66baa5-9574-4076-9c78-3120d969b3d7.jpg.webp",
+    "price": 2804.85,
+    "type":"home-appliance",
+    "name": "hand held portable handy car",
+    "id": 302,
+    "quantity": 0
+  },
+  {
+    "image":
+      "https://imgaz3.staticbg.com/thumb/gallery/oaupload/banggood/images/40/59/70a5fdad-25a7-4451-8bb1-b2c2657439d8.jpg.webp",
+    "price": 1479.97,
+    "type":"home-appliance",
+    "name": "replacement for xaomi mirza",
+    "id": 303,
+    "quantity": 0
+  },
+  {
+    "image":
+      "https://imgaz2.staticbg.com/thumb/gallery/oaupload/banggood/images/45/80/0225c84a-066c-418d-a9ed-367c806500b4.jpg.webp",
+    "price": 1479.97,
+    "type":"home-appliance",
+    "name": "semi automatic",
+    "id": 304,
+    "quantity": 0
+  },
+  {
+    "image":
+      "https://imgaz.staticbg.com/thumb/gallery/oaupload/banggood/images/3E/DA/bc934c32-9a4a-4b8f-b2c1-265580940999.jpg.webp",
+    "price": 903.26,
+    "type":"home-appliance",
+    "name": "replacement for panasonic",
+    "id": 305,
+    "quantity": 0
+  },
+  {
+    "image":
+      "https://imgaz2.staticbg.com/thumb/gallery/oaupload/banggood/images/F7/65/04b58847-45f8-4960-be90-0e8889246b5e.jpg.webp",
+    "price": 2804.85,
+    "type":"home-appliance",
+    "name": "loski air conditioner",
+    "id": 306,
+    "quantity": 0
+  },
+  {
+    "image":
+      "https://imgaz2.staticbg.com/thumb/gallery/oaupload/banggood/images/8E/AE/9e90ad75-1cdc-436b-bd04-5824ba9e1148.jpg.webp",
+    "price": 2025.51,
+    "type":"home-appliance",
+    "name": "hand held portable handy car",
+    "id": 7,
+    "quantity": 0
+  },
+  {
+    "image":
+      "https://imgaz1.staticbg.com/thumb/gallery/oaupload/banggood/images/AF/1C/f8c9ad7d-df9f-4d22-aa46-31a6732d5c54.png.webp",
+    "price": 15586.05,
+    "type":"home-appliance",
+    "name": "handheld vacume",
+    "id": 308,
+    "quantity": 0
+  },
+  {
+    "image":
+      "https://imgaz.staticbg.com/thumb/gallery/oaupload/banggood/images/FD/16/80ba72c4-215b-43db-8da8-26a5c0f443de.jpg.webp",
+    "price": 47539.04,
+    "type":"home-appliance",
+    "name": "robo vacume cleaner",
+    "id": 309,
+    "quantity": 0
+  },
+  {
+    "image":
+      "https://imgaz2.staticbg.com/thumb/gallery/oaupload/banggood/images/EC/F1/b9e3498c-9387-4fe0-942c-b5c488110d12.jpg.webp",
+    "price": 9164.27,
+    "type":"home-appliance",
+    "name": "portable air conditioner ",
+    "id": 10,
+    "quantity": 0
+  },
+  {
+    "image":
+      "https://imgaz1.staticbg.com/thumb/gallery/oaupload/banggood/images/45/2E/639e997b-4f84-43b1-a64a-61adaac35666.jpeg.webp",
+    "price": 1090.30,
+    "type":"home-appliance",
+    "name": "replacement kit",
+    "id": 11,
+    "quantity": 0
+  },
+  {
+    "image":
+      "https://imgaz2.staticbg.com/thumb/gallery/oaupload/banggood/images/BB/99/62206b72-d30f-4322-b47b-3149e7a356fd.jpg.webp",
+    "price": 1324.10,
+    "type":"home-appliance",
+    "name": "360 degree roateting sprots",
+    "id": 12,
+    "quantity": 0
+  },
+  {
+    "image":
+      "https://imgaz3.staticbg.com/thumb/gallery/oaupload/banggood/images/7D/E3/6068c8b0-99d7-414f-92b3-59d96a242c50.jpg.webp",
+    "price": 14650.84,
+    "type":"home-appliance",
+    "name": "bilzvolt vertical",
+    "id": 13,
+    "quantity": 0
+  },
+  {
+    "image":
+      "https://imgaz2.staticbg.com/thumb/gallery/oaupload/banggood/images/FC/8B/1f571374-9f9a-441a-8bb0-19c6e923a022.jpg.webp",
+    "price": 2181.38,
+    "type":"home-appliance",
+    "name": "portable air cooler fan min",
+    "id": 14,
+    "quantity": 0
   }] 
 }
