@@ -653,5 +653,17 @@
     "name": "portable air cooler fan min",
     "id": 14,
     "quantity": 0
-  }] 
+  }],
+  "users": [
+    {
+      "id": 1,
+      "userName": "SoumyaranjanBadajena",
+      "password": "soumya123",
+      "firstName": "Soumyaranjan",
+      "lastName": "Badajena",
+      "dob": "1999-06-28",
+      "mobileNo": "1234567890",
+      "emailId": "S.badajena@example.com"
+    }
+  ]
 }
